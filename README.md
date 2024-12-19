@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NOIT**
 
-- 🌱 I’m currently learning **Swift and C#**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **MDBelchev21@codingburgas.bg**
 

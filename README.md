@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **MDBelchev21@codingburgas.bg**
 
-- ⚡ Fun fact **I bench 90kg**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

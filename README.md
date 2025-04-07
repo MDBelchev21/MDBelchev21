@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **MDBelchev21@codingburgas.bg**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
